@@ -17,9 +17,9 @@
     },
     "repository" : {
         "type" : "git",
-        "url" : "git://github.com/johannesboyne/answerQuestionMapper.git"
+        "url" : "git://github.com/johannesboyne/answer-question-mapper.git"
     },
-    "homepage" : "https://github.com/johannesboyne/answerQuestionMapper",
+    "homepage" : "https://github.com/johannesboyne/answer-question-mapper",
     "keywords" : [""],
     "author" : {
         "name" : "Johannes Boyne",
